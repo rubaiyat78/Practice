@@ -1,0 +1,13 @@
+#ul-circle{
+    list-style-type: circle;
+    color: brown;
+    font-weight: 600;
+}
+
+#ul-square{
+    list-style-type: square;
+    color: chartreuse;
+    font-size: 50px;
+    font-weight: bold;
+}
+
